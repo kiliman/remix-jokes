@@ -1,2 +1,3 @@
-# remix-jokes
-Created with CodeSandbox
+# Remix Starter Template
+
+Describe your sandbox here
